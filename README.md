@@ -1,2 +1,2 @@
-# OU_Masters_Coursework
+# OU Masters Coursework
 A collection of coursework completed in the Applied Statistics Masters program.
